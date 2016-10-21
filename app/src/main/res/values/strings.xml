@@ -1,0 +1,30 @@
+<!--
+
+    Copyright © 2016  Christian Schabesberger <chris.schabesberger@mailbox.org>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+  -->
+
+
+<resources>
+    <string name="app_name">KIBA</string>
+
+    <string name="about_free_software_title">About free software</string>
+    <string name="about_free_software_link">https://www.gnu.org/philosophy/free-sw.en.html</string>
+    <string name="about_fellowshp_title">About fsfe Fellowship</string>
+    <string name="about_fellowship_link">https://fsfe.org/fellowship/index.en.html</string>
+    <string name="f_droid_title">F-Droid</string>
+    <string name="f_droid_link">https://f-droid.org/</string>
+</resources>
